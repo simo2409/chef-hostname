@@ -8,11 +8,13 @@ None
 
 Attributes
 ----------
+```json
 {
   "host": {
     "fqdn": ".."
   }
 }
+```
 
 Usage
 -----
